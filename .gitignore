@@ -3,14 +3,6 @@
 .env.local
 *.key
 
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-build/
-dist/
-*.egg-info/
-
 # Editors and OS
 .idea/
 .vscode/
